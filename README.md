@@ -159,17 +159,13 @@ Do not ship production ad IDs until your app is approved and test mode has been 
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.23.32.png)
+<p align="center">
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.23.32.png" width="30%" alt="Home Screen"/>
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.23.42.png" width="30%" alt="Banner Ad"/>
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.23.50.png" width="30%" alt="Interstitial Ad"/>
+</p>
 
-### Banner Ad
-![Banner Ad](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.23.42.png)
-
-### Interstitial Ad
-![Interstitial Ad](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.23.50.png)
-
-### Rewarded Ad
-![Rewarded Ad](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.24.03.png)
-
-### Native Ad
-![Native Ad](screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.24.09.png)
+<p align="center">
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.24.03.png" width="30%" alt="Rewarded Ad"/>
+  <img src="screenshots/Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20Max%20-%202026-06-04%20at%2014.24.09.png" width="30%" alt="Native Ad"/>
+</p>
